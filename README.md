@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kishan-2505&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.**
+- 🌱 I’m currently learning **Machine Learning, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kishan-2505?tab=repositories)
 
