@@ -52,10 +52,10 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+https://www.linkedin.com/in/kishan2505
 <p>
 <!-- <a href="https://www.kishan-2505.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/kishan-2505"><img src="https://img.shields.io/badge/-kishan-2505-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kishan2505"><img src="https://img.shields.io/badge/-kishan2505-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kishanrathodgdd@gmail.com"><img src="https://img.shields.io/badge/-kishanrathodgdd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/KishanR38239160"><img src="https://img.shields.io/badge/-@KishanR38239160-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
