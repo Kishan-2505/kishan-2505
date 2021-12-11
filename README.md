@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishansinh Rathod</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">A passionate IT student from India</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishan-2505&color=blueviolet&style=flat">
