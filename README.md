@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=kishan-2505&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱Looking for Entry Level SDE/ML roles
 
 - 👨‍💻 All of my projects are available [here](https://github.com/kishan-2505?tab=repositories)
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about **Python** and **Javascript**
 
 - 📫 How to reach me **kishanrathodgdd@gmail.com**
 
