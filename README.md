@@ -7,9 +7,7 @@
 
 - 🌱Looking for Entry Level SDE/ML roles
 
-- 👨‍💻 All of my projects are available [here](https://github.com/kishan-2505?tab=repositories)
-
-- 💬 Ask me about **Python** and **Javascript**
+- 💬 Ask me about **Python**, **SQL** and **Javascript**
 
 - 📫 How to reach me **kishanrathodgdd@gmail.com**
 
